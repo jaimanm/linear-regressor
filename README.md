@@ -1,3 +1,5 @@
 # Linear Regressor
 
-A Linear Regressor that doesn't use any special machine learning libraries for linear regression.
+I have made a program which applies batch gradient descent in linear regression to predict values.
+It uses a sample dataset from the Machine Learning Specialization C1 on Coursera.
+There is also another dataset about car prices, but that data is not very prediction-useful.
